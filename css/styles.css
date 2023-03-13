@@ -1,0 +1,74 @@
+body{
+    font-family:"Montserrat";
+}
+
+#title{
+    background-color: aqua;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+
+#features{
+    background-color: red;
+    padding: 5% 0%;
+    color: white;
+}
+
+.apple{
+    margin: 5% 0%;
+}
+
+.img{
+    width: 70%;
+    padding-left: 0%;
+    transform: rotate(0deg);
+    border-radius: 100%;
+}
+
+.dart{
+    width: 50%;
+    padding: 10px 0px;
+}
+
+.mini{
+text-align: center;    
+}
+
+#testimonials{
+    text-align: center;
+    padding: 3% 15%;
+}
+
+.test-image{
+    width: 80px;
+    border-radius: 100%;
+}
+
+/* testomonials */
+
+#press{
+    background-color: #DEC0DF;
+    text-align: center;
+    padding: 3% 15%;
+}
+.pressed{
+    width: 20%;
+    text-align: center;
+}
+
+
+/* pricing*/
+
+#pricing {
+    padding:3% 15%;
+    text-align: center;
+}
+
+/* CTA */
+
+#cta,#footer{
+    padding:3% 15%;
+    background-color: aquamarine;
+    text-align: center;
+}
